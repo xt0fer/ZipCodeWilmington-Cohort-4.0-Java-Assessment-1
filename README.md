@@ -18,7 +18,7 @@
     * Go on to section 4.
         * [JumpToTheFlag](.instructions/part4/README-JumpToTheFlag.md)
     * Finish by completing section 5.
-        * [JumpToTheFlag](.instructions/part5/README-Palindrome.md)
+        * [Palindrome](.instructions/part5/README-Palindrome.md)
 
 * **Frequently Asked Questions**
    * What are the `Sample Script` and `Sample Output` portions of each `README`?
