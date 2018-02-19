@@ -16,9 +16,9 @@
     * Advance further by completing section 3.
         * [AnimalsPetsOwners](./instructions/part3/README-AnimalsPetsOwners.md)
     * Go on to section 4.
-        * [JumpToTheFlag](.instructions/part4/README-JumpToTheFlag.md)
+        * [JumpToTheFlag](./instructions/part4/README-JumpToTheFlag.md)
     * Finish by completing section 5.
-        * [Palindrome](.instructions/part5/README-Palindrome.md)
+        * [Palindrome](./instructions/part5/README-Palindrome.md)
 
 * **Frequently Asked Questions**
    * What are the `Sample Script` and `Sample Output` portions of each `README`?
