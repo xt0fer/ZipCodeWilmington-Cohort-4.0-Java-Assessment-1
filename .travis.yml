@@ -1,0 +1,6 @@
+sudo: false
+language: java
+
+deploy:
+  provider: script
+  script: "mvn test -B"
