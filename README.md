@@ -15,6 +15,10 @@
         
     * Finish by completing [section 3](./instructions/part3/)
         * [AnimalsPetsOwners](./instructions/part3/README-AnimalsPetsOwners.md)
+    * Finish by completing [section 4](.instructions/part4/)
+        * [JumpToTheFlag](.instructions/part4/README-JumpToTheFlag.md)
+    * Finish by completing [section 5](.instructions/part4/)
+        * [JumpToTheFlag](.instructions/part5/README-Palindrome.md)
 
 * **Frequently Asked Questions**
    * What are the `Sample Script` and `Sample Output` portions of each `README`?
