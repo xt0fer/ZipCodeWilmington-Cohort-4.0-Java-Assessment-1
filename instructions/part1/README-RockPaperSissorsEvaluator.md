@@ -1,7 +1,5 @@
 # RockPaperScissorsEvaluator
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/300px-Rock-paper-scissors.svg.png">
-
 * Ensure each of the test cases in the class [RockPaperScissorsEvaluatorTest]() successfully passes upon completion of each of the method stubs in the class [RockPaperScissorsEvaluator]().
     * `String getWinningMove(String handSign)` 
     * `String getLosingMove(String handSign)`
@@ -14,6 +12,11 @@
 
 
 <br><br><br><br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/300px-Rock-paper-scissors.svg.png">
+
+<br><br><br><br>
+
 ## `String getWinningMove(String handSign)`
 * **Description**
     * Given a String representative of a hand sign, named `handSign`, in [Rock Paper Scissors](https://en.wikipedia.org/wiki/Rock-paper-scissors), return the String representation of the hand sign which would defeat the respective `handSign`.
