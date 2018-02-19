@@ -1,4 +1,4 @@
-##Jump The Flag
+## Jump The Flag
 
 Bob is trying to reach a flag that's k units above the ground. In his attempt to reach the flag, Bob can make any number of jumps up the rock wall where it's mounted; however, he can only move up the wall (meaning he cannot overshoot the flag and move down to reach it). There are 2 types of jumps:
 
@@ -14,7 +14,7 @@ It must return an integer denoting the minimum number of times Bob must jump to 
 
  
 
-###Input Format
+### Input Format
 
 ```
 /*
