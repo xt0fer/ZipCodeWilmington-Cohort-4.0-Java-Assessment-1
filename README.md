@@ -15,3 +15,8 @@
         
     * Finish by completing [section 3](./instructions/part3/)
         * [AnimalsPetsOwners](./instructions/part3/README-AnimalsPetsOwners.md)
+
+* **Frequently Asked Questions**
+   * What are the `Sample Script` and `Sample Output` portions of each `README`?
+      * Each `README` contains an example script which illustrates what the _output_ of calling a method with some given input.
+      * The example scripts **DO NOT** demonstrate how the methods are tested, although they allude to how they _could be_ tested.
