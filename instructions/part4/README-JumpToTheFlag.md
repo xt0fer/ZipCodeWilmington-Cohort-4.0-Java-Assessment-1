@@ -4,17 +4,15 @@
 * In his attempt to reach the flag, Bob can make any number of jumps up the rock wall where it's mounted.
 * However, he can only move up the wall (meaning he cannot overshoot the flag and move down to reach it).
 * There are 2 types of jumps:
-
-1. A jump of height `1`.
-2. A jump of height `j`.
+    1. A jump of height `1`.
+    2. A jump of height `j`.
  
 
 * Bob wants your help determining the minimum number of jumps it will take him to collect the flag.
 * Complete the jumps function in your editor.
 * It has 2 parameters:
-
-1. An integer, `k`, the height of the flag.
-2. An integer, `j`, the number of units he ascends in a jump of type 2.
+    1. An integer, `k`, the height of the flag.
+    2. An integer, `j`, the number of units he ascends in a jump of type 2.
 
 * It must return an integer denoting the minimum number of times Bob must jump to collect the flag.
 
