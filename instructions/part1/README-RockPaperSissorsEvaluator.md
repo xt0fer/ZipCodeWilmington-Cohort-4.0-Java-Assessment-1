@@ -1,5 +1,7 @@
 # RockPaperScissorsEvaluator
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/300px-Rock-paper-scissors.svg.png">
+
 * Ensure each of the test cases in the class [RockPaperScissorsEvaluatorTest]() successfully passes upon completion of each of the method stubs in the class [RockPaperScissorsEvaluator]().
     * `String getWinningMove(String handSign)` 
     * `String getLosingMove(String handSign)`
