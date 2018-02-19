@@ -1,4 +1,4 @@
-##Palindrome Counter
+## Palindrome Counter
 
 Complete the countPalindromes function in your editor. It has 1 parameter: a string, s. It must return an integer denoting the number of palindromic substrings of s.
 
