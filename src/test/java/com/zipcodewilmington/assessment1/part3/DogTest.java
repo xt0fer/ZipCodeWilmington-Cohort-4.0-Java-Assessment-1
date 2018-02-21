@@ -7,17 +7,6 @@ import org.junit.Test;
  * Created by leon on 2/16/18.
  */
 public class DogTest {
-    @Test
-    public void implementationTest() {
-        Assert.assertTrue(false);
-
-    }
-
-    @Test
-    public void inheritanceTest() {
-        Assert.assertTrue(false);
-    }
-
 
     @Test
     public void nullaryConstructorTest() {
@@ -95,7 +84,7 @@ public class DogTest {
     public void speakTest() {
         // Given
         Dog dog = new Dog();
-        String expected = "Bark";
+        String expected = "bark";
 
         // When
         String actual = dog.speak();

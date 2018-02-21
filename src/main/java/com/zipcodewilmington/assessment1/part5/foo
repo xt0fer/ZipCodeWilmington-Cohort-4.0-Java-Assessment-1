@@ -1,0 +1,22 @@
+
+    Initial Values : i = 0, j = n-1;
+        Given string 'str'
+
+        CountPS(i, j)
+
+        // If length of string is 2 then we
+        // check both character are same or not
+        If (j == i+1)
+          return str[i] == str[j]
+
+        Else If str[i..j] is PALINDROME
+        // increment count by 1 and check for
+        // rest palindromic substring (i, j-1), (i+1, j)
+        // remove common palindrome substring (i+1, j-1)
+        return  countPS(i+1, j) + countPS(i, j-1) + 1 - countPS(i+1, j-1);
+
+        Else // if NOT PALINDROME
+        // We check for rest palindromic substrings (i, j-1)
+        // and (i+1, j)
+        // remove common palindrome substring (i+1 , j-1)
+        return  countPS(i+1, j) + countPS(i, j-1) - countPS(i+1 , j-1);

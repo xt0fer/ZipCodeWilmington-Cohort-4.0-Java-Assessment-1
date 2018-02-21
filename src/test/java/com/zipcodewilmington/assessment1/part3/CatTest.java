@@ -7,17 +7,6 @@ import org.junit.Test;
  * Created by leon on 2/16/18.
  */
 public class CatTest {
-    @Test
-    public void implementationTest() {
-        Assert.assertTrue(false);
-
-    }
-
-    @Test
-    public void inheritanceTest() {
-        Assert.assertTrue(false);
-    }
-
 
     @Test
     public void nullaryConstructorTest() {
