@@ -92,7 +92,7 @@ public class PetOwnerTest {
         PetOwner po = new PetOwner("", oneYearOldPuppy, twoYearOldKitten);
 
         // When
-        int actual = po.getYoungetPetAge();
+        int actual = po.getYoungestPetAge();
 
         // Then
         Assert.assertEquals(expected, actual);
@@ -160,11 +160,10 @@ public class PetOwnerTest {
     @Test
     public void getPets() {
         // Given
-        Integer expected = 2;
         Pet oneYearOldPuppy = new Dog(4);
         Pet twoYearOldKitten = new Cat(2);
         Pet[] pets = { oneYearOldPuppy, twoYearOldKitten };
-        PetOwner po = new PetOwner("");
+        PetOwner po = new PetOwner("", oneYearOldPuppy, twoYearOldKitten);
         List<Pet> petList = Arrays.asList(po.getPets());
 
         // When
